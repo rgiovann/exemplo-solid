@@ -83,9 +83,9 @@ TextProcessor processor = new RemoveVogaisProcessor();
 
 ##  Artigo
 
-Este projeto é acompanhado do artigo técnico:
+Este projeto é acompanhado do artigo técnico (arquivo pdf):
 
-📄 [Aplicando SOLID em Projetos Educacionais com Sockets em Java (PDF)](https://chatgpt.com/c/link-para-o-pdf-ou-post)
+📄 [Aplicando SOLID em Projetos Educacionais com Sockets em Java (PDF)]((./solid-connection.pdf))
 
 ***
 
